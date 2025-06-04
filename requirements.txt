@@ -1,0 +1,6 @@
+pdfplumber
+PyPDF2
+python-dateutil
+argparse
+pathlib
+collections-extended
